@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 5e80edeceae201c4596d4fea9bbf2c91
+timeCreated: 1528307231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rig
+    100004: RigAss
+    100006: CyborgGirl
+    100008: Glass
+    100010: RigArmLeft1
+    100012: RigArmLeft2
+    100014: RigArmLeft3
+    100016: RigArmLeftCollarbone
+    100018: RigArmLeftFing11
+    100020: RigArmLeftFing12
+    100022: RigArmLeftFing13
+    100024: RigArmLeftFing21
+    100026: RigArmLeftFing22
+    100028: RigArmLeftFing23
+    100030: RigArmLeftFing31
+    100032: RigArmLeftFing32
+    100034: RigArmLeftFing33
+    100036: RigArmLeftFing41
+    100038: RigArmLeftFing42
+    100040: RigArmLeftFing43
+    100042: RigArmRight1
+    100044: RigArmRight2
+    100046: RigArmRight3
+    100048: RigArmRightCollarbone
+    100050: RigArmRightFing11
+    100052: RigArmRightFing12
+    100054: RigArmRightFing13
+    100056: RigArmRightFing21
+    100058: RigArmRightFing22
+    100060: RigArmRightFing23
+    100062: RigArmRightFing31
+    100064: RigArmRightFing32
+    100066: RigArmRightFing33
+    100068: RigArmRightFing41
+    100070: RigArmRightFing42
+    100072: RigArmRightFing43
+    100074: RigHead
+    100076: RigLegLeft1
+    100078: RigLegLeft2
+    100080: RigLegLeft3
+    100082: RigLegRight1
+    100084: RigLegRight2
+    100086: RigLegRight3
+    100088: RigNeck
+    100090: RigPistolLeft
+    100092: RigPistolRight
+    100094: RigSpine1
+    100096: RigSpine2
+    100098: RigSpine3
+    400000: //RootNode
+    400002: Rig
+    400004: RigAss
+    400006: CyborgGirl
+    400008: Glass
+    400010: RigArmLeft1
+    400012: RigArmLeft2
+    400014: RigArmLeft3
+    400016: RigArmLeftCollarbone
+    400018: RigArmLeftFing11
+    400020: RigArmLeftFing12
+    400022: RigArmLeftFing13
+    400024: RigArmLeftFing21
+    400026: RigArmLeftFing22
+    400028: RigArmLeftFing23
+    400030: RigArmLeftFing31
+    400032: RigArmLeftFing32
+    400034: RigArmLeftFing33
+    400036: RigArmLeftFing41
+    400038: RigArmLeftFing42
+    400040: RigArmLeftFing43
+    400042: RigArmRight1
+    400044: RigArmRight2
+    400046: RigArmRight3
+    400048: RigArmRightCollarbone
+    400050: RigArmRightFing11
+    400052: RigArmRightFing12
+    400054: RigArmRightFing13
+    400056: RigArmRightFing21
+    400058: RigArmRightFing22
+    400060: RigArmRightFing23
+    400062: RigArmRightFing31
+    400064: RigArmRightFing32
+    400066: RigArmRightFing33
+    400068: RigArmRightFing41
+    400070: RigArmRightFing42
+    400072: RigArmRightFing43
+    400074: RigHead
+    400076: RigLegLeft1
+    400078: RigLegLeft2
+    400080: RigLegLeft3
+    400082: RigLegRight1
+    400084: RigLegRight2
+    400086: RigLegRight3
+    400088: RigNeck
+    400090: RigPistolLeft
+    400092: RigPistolRight
+    400094: RigSpine1
+    400096: RigSpine2
+    400098: RigSpine3
+    2100000: 03 - Default
+    2100002: CybergGirlGlass
+    4300000: CyborgGirl
+    4300002: Glass
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: CyborgGirl
+    13700002: Glass
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
